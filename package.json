@@ -1,5 +1,5 @@
 {
-  "name": "yarn-triange-repro",
+  "name": "vscode-triange-repro",
   "version": "0.0.0",
   "devDependencies": {
     "rimraf": "^3.0.2"
